@@ -30,8 +30,8 @@ https://polar-citadel-75294.herokuapp.com/
 
 ## images 
 
-![screenshot](images/Screen Shot 2020-09-11 at 4.28.22 PM 2.png)
+![alternativetext](images/image_1.png)
 
-![screenshot](images/Screen Shot 2020-09-11 at 4.28.47 PM 2.png)
+![alternativetext](images/image_2.png)
 
 
